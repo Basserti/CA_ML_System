@@ -3,6 +3,6 @@
 ###
 
 - MMPose Demo ipynb
-- MediaPipe Demo
+- [MediaPipe Demo](MediaPipe_ipynb.ipynb)
 
 ###
